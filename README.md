@@ -15,7 +15,7 @@ Clean the raw Mall Customers dataset by removing nulls, standardizing columns, a
 - Exported final cleaned CSV
 
 ## 📁 Files
-- `Mall_Customer_segmentation_Data.xlsx`: Cleaned dataset
+- `Mall_Customer_segmentation_Data.xls`: Cleaned dataset
 - `Mall Customer Segmentation Data.py`: Python script used for cleaning
 - `Mall_Customers.csv/`: Dataset
 
