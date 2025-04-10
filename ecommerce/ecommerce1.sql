@@ -1,5 +1,4 @@
 select * from dataset;
-![Image](https://github.com/user-attachments/assets/16b66724-b528-4dbd-b8c0-0c4f7f212e5d)
 SELECT * FROM dataset LIMIT 10;
 -- SELECT, WHERE, ORDER BY, GROUP BY
 SELECT * FROM dataset
