@@ -47,11 +47,11 @@ This report provides a comprehensive analysis of sales data across various categ
 | Category             | Sales (₹K) | Avg Rating |
 |----------------------|------------|-------------|
 | Food & Beverages     | 56.14      | 7.11        |
-| Fashion Accessories  | –          | 7.03        |
+| Fashion Accessories  | 54.31K     | 7.03        |
 | Health & Beauty      | 49.19      | 7.00        |
-| Sports & Travel      | –          | 6.92        |
-| Electronic Accessories | –        | 6.92        |
-| Home & Lifestyle     | –          | 6.84        |
+| Sports & Travel      | 55.12K     | 6.92        |
+| Electronic Accessories | 54.34    | 6.92        |
+| Home & Lifestyle     | 53.86K     | 6.84        |
 
 ---
 
