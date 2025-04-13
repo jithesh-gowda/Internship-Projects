@@ -1,0 +1,14 @@
+review_id,user_id,rating,review_text,review_date
+R001,U001,5,Excellent quality!,1-Mar-24
+R002,U002,4,"Good product, value for money",2-Mar-24
+R003,U003,,,3-Mar-24
+R004,U004,2,This is bad,4-Mar-24
+R005,U005,1,Not bad at all,5-Mar-24
+R006,U006,3,Very satisfied with the purchase,6-Mar-24
+R007,U007,6,best product ever,7-Mar-24
+R008,U008,4,BAD customer support,8-Mar-24
+R009,U009,2,Average product,9-Mar-24
+R010,U010,5,Absolutely amazing!,10-Mar-24
+R011,U011,3,bad quality for the price,11-Mar-24
+R012,U012,5,Perfect!,12-Mar-24
+R013,U013,,,13-Mar-24
